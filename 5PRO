@@ -1,0 +1,14 @@
+numi = rbind(rep ("A" ,3) , rep("B" , 3) , гер("C" ,3))
+print("num1")
+print (num1)
+num2 - rbind (rep("p", 3), rep ("Q", 3), rep ("R" , 3))
+5 print("num2*")
+6
+print (num2)
+nums
+- rbind (rep("X" ,3), гер ("V" ,3), rep ("Z" , 3))
+8 print("num3")
+print (num3)
+10 a = matrix(t (cbind (numil, num2 ,num3)) ,ncol-3, byrow-T)
+print "Combine three arrays, taking one row from each one by one:")
+12 print(a)
