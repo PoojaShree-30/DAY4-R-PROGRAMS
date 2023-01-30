@@ -1,0 +1,14 @@
+library(dplyr)
+
+u <-airquality missing_values <- colsums (is.na (u))
+for (i in 1:ncol(u)) I
+if (missing_values [il/nrow(u) < 0.1) ( u <- ultis.na(u[,il),]
+else {
+mean_val <- mean (u[,i], na.rm = TRUE)
+ulis. na(ut,iJD,i] <- mean_val
+print(u)
+
+ ml<- Im(x-y)
+
+plot(x, y, main = "Air Quality", xlab= "Ozone", ylab = "Solar")
+ abline(Im(x-y,ul-u),col='blue")
