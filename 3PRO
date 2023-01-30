@@ -1,0 +1,12 @@
+library(reshape)
+t-airquality
+#1)
+summary(t)
+dii)
+melt(t)
+#iii)
+9 t1=melt(tid.vars=c("Month", "Day""))
+10 print (head(ti))
+#iv)
+12 t2-cast(tl, Month + Day ~ variable) t2 #v)
+t2-cast (t1, Month-Day ,mean) t2
